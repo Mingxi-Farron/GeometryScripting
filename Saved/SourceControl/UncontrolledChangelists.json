@@ -7,7 +7,8 @@
 			"files": [
 				"C:/Fork/GeometryScript/Content/Lvls/LVL_Default.umap",
 				"C:/Fork/GeometryScript/Content/BPs/BP_DynamicGenerative.uasset",
-				"C:/Fork/GeometryScript/Content/Textures/app_icon_64.uasset"
+				"C:/Fork/GeometryScript/Content/Textures/app_icon_64.uasset",
+				"C:/Fork/GeometryScript/Content/BPs/BP_Tracker.uasset"
 			]
 		}
 	]
